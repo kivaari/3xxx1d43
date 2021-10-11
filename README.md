@@ -1,1 +1,1 @@
-reposiry for python projects
+repository for python projects
